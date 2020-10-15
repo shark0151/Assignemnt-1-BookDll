@@ -1,0 +1,9 @@
+D:\Projects\BookLibraryAssignemnt\BookLibraryAssignemnt\bin\Debug\netcoreapp3.1\BookLibraryAssignemnt.deps.json
+D:\Projects\BookLibraryAssignemnt\BookLibraryAssignemnt\bin\Debug\netcoreapp3.1\BookLibraryAssignemnt.dll
+D:\Projects\BookLibraryAssignemnt\BookLibraryAssignemnt\bin\Debug\netcoreapp3.1\BookLibraryAssignemnt.pdb
+D:\Projects\BookLibraryAssignemnt\BookLibraryAssignemnt\obj\Debug\netcoreapp3.1\BookLibraryAssignemnt.AssemblyInfoInputs.cache
+D:\Projects\BookLibraryAssignemnt\BookLibraryAssignemnt\obj\Debug\netcoreapp3.1\BookLibraryAssignemnt.AssemblyInfo.cs
+D:\Projects\BookLibraryAssignemnt\BookLibraryAssignemnt\obj\Debug\netcoreapp3.1\BookLibraryAssignemnt.csproj.CoreCompileInputs.cache
+D:\Projects\BookLibraryAssignemnt\BookLibraryAssignemnt\obj\Debug\netcoreapp3.1\BookLibraryAssignemnt.dll
+D:\Projects\BookLibraryAssignemnt\BookLibraryAssignemnt\obj\Debug\netcoreapp3.1\BookLibraryAssignemnt.pdb
+D:\Projects\BookLibraryAssignemnt\BookLibraryAssignemnt\bin\Debug\netcoreapp3.1\BookLibraryAssignemnt.xml
